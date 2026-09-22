@@ -1,10 +1,6 @@
 # Eco-Valley: Harmony of the Food Chain
 
-Simulasi santai tentang kehidupan lembah, rantai makanan, dan cara alam menjaga keseimbangannya. Terinspirasi dari nuansa pedesaan Stardew Valley.
-
-![Tampilan Lembah Eco-Valley](assets/gameplay_main.jpg)
-
----
+Welcome to your own Simulation of Eco. Game santai tentang kehidupan lembah, rantai makanan, dan cara alam menjaga keseimbangannya. Terinspirasi dari nuansa pedesaan Stardew Valley.
 
 ## Tentang Game
 
@@ -14,10 +10,6 @@ Di Eco-Valley, kamu berperan sebagai peneliti muda yang mengamati kehidupan di s
 - Mengubah cuaca dan musim, mulai dari hujan sejuk di musim semi hingga salju di musim dingin.
 - Menyelesaikan 10 jurnal riset dan kuis santai bersama Demetrius untuk memahami cara kerja ekosistem.
 - Mengamati reaksi alam ketika salah satu rantai makanan terganggu.
-
-![Jurnal Riset dan Kuis Demetrius](assets/gameplay_mission_quiz.jpg)
-
----
 
 ## Rantai Makanan di Lembah
 
